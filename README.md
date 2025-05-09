@@ -31,11 +31,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
  A user named Ken initiates a support request by opening a new ticket through the osTicket system:
 </p>
 <p>
- <img src="https://i.imgur.com/5duF4uf.png: height="75%" width="100%" alt="Open a Ticket"/>
+ <img src="https://i.imgur.com/L3MyOPc.png: height="75%" width="100%" alt="Open a Ticket"/>
 </p>
 <br />
 <p>
 This marks the beginning of the ticket lifecycle and logs Ken’s issue into the help desk queue for review by support staff.</p>
+<p>
+ <img src="https://i.imgur.com/ccqmwCL.png: height="75%" width="100%" alt="Open a Ticket"/>
+</p>
 <br />
 <h3 align="center">Ticket assignment</h3>
 <br />
