@@ -71,13 +71,13 @@ Realizing that the issue is beyond his scope or requires specialized expertise, 
 <p>
 The reassigned ticket is received by System Administrator Jane Doe, who logs into her portal to take over the issue.</p>
 <p>
-  <img src="https://i.imgur.com/i61WQKi.jpg" height="75%" width="100%" alt="Sys admin agent login"/>
+  <img src="https://i.imgur.com/i61WQKi.jpg" height="60%" width="70%" alt="Sys admin agent login"/>
 </p>
 <p>
 Jane reviews all existing notes, investigates the root cause, applies the necessary fixes, and provides a detailed update within the system. After resolving the issue, she changes the status of the ticket from ‘Open’ to ‘Resolved’, ensuring it reflects its current state.
 </p>
 <p>
-  <img src="https://i.imgur.com/Y0vFJX5.png" height="75%" width="100%" alt="Working the issue"/>
+  <img src="https://i.imgur.com/Y0vFJX5.png" height="75%" width="70%" alt="Working the issue"/>
 </p>
 <br />
 <br />
@@ -87,7 +87,7 @@ Jane reviews all existing notes, investigates the root cause, applies the necess
   Back on his dashboard, Agent John observes that Jane has completed the task and left an update for him. He verifies the message and confirms the issue has been resolved to satisfaction. The ticket is now marked as closed in the system.
 </p>
 <p>
-  <img src="https://i.imgur.com/OTvJb2g.png" height="75%" width="100%" alt="Working the issue"/>
+  <img src="https://i.imgur.com/OTvJb2g.png" height="65%" width="70%" alt="Working the issue"/>
 </p>
 <br />
 <br />
