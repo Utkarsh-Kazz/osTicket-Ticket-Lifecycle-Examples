@@ -31,7 +31,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
  A user named Ken initiates a support request by opening a new ticket through the osTicket system:
 </p>
 <p>
-  <img src="https://i.imgur.com/ewueu9b.png: height="45%" width="50%" alt="Open a Ticket"/>
+  <img src="https://imgur.com/a/PJ6vMur" height="45%" width="50%" alt="Open a Ticket"/>
 </p>
 <br />
 <p>
