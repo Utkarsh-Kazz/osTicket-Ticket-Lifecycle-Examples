@@ -46,11 +46,14 @@ This marks the beginning of the ticket lifecycle and logs Ken’s issue into the
   Once the ticket is submitted, a support agent—John Doe—logs into the help desk dashboard to check for new and existing tickets requiring attention.
 </p>
 <p>
-  <img src="https://i.imgur.com/i3sa7FH.jpg" height="75%" width="100%" alt="Support agent login"/>
+  <img src="https://i.imgur.com/sXZANDR.png" height="75%" width="60%" alt="Support agent login"/>
 </p>
 <br />
 <p>
 Upon reviewing the newly submitted ticket, Agent John begins the initial assessment of the issue and prepares to handle or delegate it accordingly.</p>
+<p>
+  <img src="https://i.imgur.com/IPfbhEa.png" height="75%" width="50%" alt="Support agent login"/>
+</p>
 <br />
 <h3 align="center">Communication</h3>
 <br />
