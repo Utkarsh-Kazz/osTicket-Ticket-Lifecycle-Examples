@@ -62,7 +62,7 @@ Upon examining the details of the ticket, Agent John determines that it is a Sev
 <p>
 Realizing that the issue is beyond his scope or requires specialized expertise, he decides to escalate the ticket by reassigning it to a System Administrator. Before transferring it, he ensures that proper internal notes and communication are added to maintain clarity for the next handler.</p>
 <p>
-  <img src="https://i.imgur.com/wVucqKf.png" height="75%" width="100%" alt="Communication"/>
+  <img src="https://i.imgur.com/2qqIQfe.png" height="75%" width="100%" alt="Communication"/>
 </p>
 <br />
 <br />
@@ -77,7 +77,7 @@ The reassigned ticket is received by System Administrator Jane Doe, who logs int
 Jane reviews all existing notes, investigates the root cause, applies the necessary fixes, and provides a detailed update within the system. After resolving the issue, she changes the status of the ticket from ‘Open’ to ‘Resolved’, ensuring it reflects its current state.
 </p>
 <p>
-  <img src="https://i.imgur.com/DYPJufr.png" height="75%" width="100%" alt="Working the issue"/>
+  <img src="https://i.imgur.com/qyJaYhc.png" height="75%" width="100%" alt="Working the issue"/>
 </p>
 <br />
 <br />
@@ -87,7 +87,7 @@ Jane reviews all existing notes, investigates the root cause, applies the necess
   Back on his dashboard, Agent John observes that Jane has completed the task and left an update for him. He verifies the message and confirms the issue has been resolved to satisfaction. The ticket is now marked as closed in the system.
 </p>
 <p>
-  <img src="https://i.imgur.com/kRpUysm.png" height="75%" width="100%" alt="Working the issue"/>
+  <img src="https://i.imgur.com/OTvJb2g.png" height="75%" width="100%" alt="Working the issue"/>
 </p>
 <br />
 <br />
