@@ -43,7 +43,7 @@ This marks the beginning of the ticket lifecycle and logs Ken’s issue into the
 <h3 align="center">Ticket assignment</h3>
 <br />
 <p>
-  Once the ticket is submitted, a support agent—John Doe—logs into the help desk dashboard to check for new and existing tickets requiring attention.
+  Once the ticket is submitted, a support agent John Doe, logs into the help desk dashboard to check for new and existing tickets requiring attention.
 </p>
 <p>
   <img src="https://i.imgur.com/sXZANDR.png" height="75%" width="60%" alt="Support agent login"/>
